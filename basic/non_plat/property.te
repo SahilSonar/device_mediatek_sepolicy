@@ -345,7 +345,7 @@ vendor_restricted_prop(vendor_audio_prop)
 vendor_restricted_prop(vendor_bt_prop)
 
 # dplanner
-vendor_internal_prop(vendor_dlpanner_prop)
+vendor_internal_prop(vendor_dplanner_prop)
 
 # IMS
 vendor_internal_prop(md_status_prop)
